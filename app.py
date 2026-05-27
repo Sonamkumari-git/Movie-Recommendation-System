@@ -128,7 +128,7 @@ def recommend(movie_title):
 
 # --- 4. Application UI ---
 
-st.title('🎬 NETMIRROR REEL')
+st.title('🎬MOVIE RECOMMENDATION')
 
 # Search bar layout
 movie_list = ["-- Select a Movie --"] + list(movies['title'].values)
