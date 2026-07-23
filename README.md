@@ -379,10 +379,3 @@ If you encounter any issues or have suggestions:
 
 ---
 
-<div align="center">
-
-**Made with ❤️ by Sonam Kumari**
-
-⭐ If you find this project helpful, please consider giving it a star!
-
-</div>
